@@ -21,6 +21,12 @@ Spellbook is a REST API that allows users to browse, manage, and purchase from a
   - AWS RDS 
   - Git
 
+## Features
+
+## Getting Started
+
+## Usage
+
 ## Contributers
 
 Team Epimetheus consists of Aaron Cunanan (lead), Jazlyn Maxwell, and Craig Zamora
